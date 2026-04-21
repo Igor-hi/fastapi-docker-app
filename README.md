@@ -1,2 +1,2 @@
 # fastapi-docker-app
-FstAPI app with  Docker
+FastAPI app with  Docker
